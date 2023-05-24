@@ -22,7 +22,7 @@ const config = {
     "^(next/(.*)$)|^(next$)",
     "<THIRD_PARTY_MODULES>",
     "",
-    "^@acme/(.*)$",
+    "^@md-docs/(.*)$",
     "",
     "^~/utils/(.*)$",
     "^~/components/(.*)$",
